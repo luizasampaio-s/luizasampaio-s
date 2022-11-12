@@ -1,8 +1,4 @@
 ## Olá, seja bem-vindo! ✨
-
-Há um tempo, decidi mudar o foco dos meus estudos para a área de tecnologia, mais especificamente para a área de dados. Antes disso eu cursava letras, mas acho que estava aprendendo a sintaxe errada. 😅
-
-
 - 📍 Rio de Janeiro, Brasil.
 - 🙆 Pronomes: ela/dela (she/her)
 
