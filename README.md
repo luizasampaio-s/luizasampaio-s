@@ -1,4 +1,4 @@
-## Olá, seja bem-vindo! ✨
+## Hi, there! ✨
 - 📍 Rio de Janeiro, Brazil.
 - 🙆 Pronoums: she/her
 
