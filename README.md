@@ -1,6 +1,6 @@
 ## Hi, there! ✨
-- ##### 📍 Rio de Janeiro, Brazil.
-- ##### 🙆 Pronoums: she/her
+-  📍 Rio de Janeiro, Brazil.
+-  🙆 Pronoums: she/her
 
        
 
