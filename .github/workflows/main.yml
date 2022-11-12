@@ -1,6 +1,8 @@
+name: Generate Datas
+
 on:
   schedule: # execute every 12 hours
-    - cron: "* /12 * *"
+    - cron: "* */12 * * *"
   workflow_dispatch:
 
 jobs:
@@ -13,6 +15,7 @@ jobs:
         id: snake-gif
         with:
           github_user_name: luizasampaio-s
+
           svg_out_path: dist/github-contribution-grid-snake.svg
 
       - uses: crazy-max/ghaction-github-pages@v2.1.3
