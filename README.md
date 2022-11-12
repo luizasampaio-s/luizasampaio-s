@@ -20,6 +20,8 @@
 #### Contact me:
 [![LinkedIn](https://img.shields.io/badge/-LINKEDIN-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/luizasampaiods/) [![Gmail](https://img.shields.io/badge/-Gmail-e3241e?style=for-the-badge&logo=Gmail&logoColor=white)](https://mail.google.com/mail/u/0/?fs=1&to=ssampaiolu@gmail.com&su=Contato%20via%20curr%C3%ADculo.&body=&bcc=&tf=cm)
 
+
+![Snake animation](https://github.com/luizasampaio-s/luizasampaio-s/blob/output/github-contribution-grid-snake.svg)
 <!-- Here are some ideas to get you started:
 
 - 🌱 Atualemnte estou aprendendo:
